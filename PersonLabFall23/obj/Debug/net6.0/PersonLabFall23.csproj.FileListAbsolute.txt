@@ -1,0 +1,14 @@
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\bin\Debug\net6.0\PersonLabFall23.exe
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\bin\Debug\net6.0\PersonLabFall23.deps.json
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\bin\Debug\net6.0\PersonLabFall23.runtimeconfig.json
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\bin\Debug\net6.0\PersonLabFall23.dll
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\bin\Debug\net6.0\PersonLabFall23.pdb
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\obj\Debug\net6.0\PersonLabFall23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\obj\Debug\net6.0\PersonLabFall23.AssemblyInfoInputs.cache
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\obj\Debug\net6.0\PersonLabFall23.AssemblyInfo.cs
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\obj\Debug\net6.0\PersonLabFall23.csproj.CoreCompileInputs.cache
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\obj\Debug\net6.0\PersonLabFall23.dll
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\obj\Debug\net6.0\refint\PersonLabFall23.dll
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\obj\Debug\net6.0\PersonLabFall23.pdb
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\obj\Debug\net6.0\PersonLabFall23.genruntimeconfig.cache
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab1\PersonLabFall23\PersonLabFall23\obj\Debug\net6.0\ref\PersonLabFall23.dll
